@@ -152,7 +152,7 @@ if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i
 
                     <div class="center">
 
-                        <span class="account-cr">No tienes una ID de Apple&nbsp;ID?&nbsp;<a class="clickable" href="#">Crear una ahora.</a></span>
+                        <span class="account-cr">No tienes una ID de Apple&nbsp;ID?&nbsp;<a class="clickable" href="#"> .</a></span>
 
                     </div>
 
